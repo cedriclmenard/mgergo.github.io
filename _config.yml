@@ -6,9 +6,9 @@ texture:
   tagline: Ergothérapeute
   date_format: "%b %-d, %Y"
 
-  style: black
+  style: purple
 
-  showPicker: true
+  showPicker: false
 
   social_links:
     #twitter: thelehhman
