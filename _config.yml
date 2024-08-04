@@ -1,0 +1,14 @@
+remote_theme: samarsault/texture
+
+
+texture:
+  title: Marika Girard
+  tagline: Ergothérapeute
+  date_format: "%b %-d, %Y"
+
+  style: black
+
+  social_links:
+    #twitter: thelehhman
+    #github:  thelehhman
+    #linkedIn: in/thelehhman # format: locale/username
