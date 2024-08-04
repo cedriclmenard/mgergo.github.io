@@ -8,7 +8,11 @@ texture:
 
   style: black
 
+  showPicker: true
+
   social_links:
     #twitter: thelehhman
     #github:  thelehhman
     #linkedIn: in/thelehhman # format: locale/username
+
+
