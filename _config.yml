@@ -18,7 +18,7 @@
 
 
 
-remote_theme: freelancer-theme-jekyll
+remote_theme: "jeromelachaud/freelancer-theme"
 # Site settings
 title: Marika Girard, Ergothérapeute
 email: marika.girard.erg@gmail.com
