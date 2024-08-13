@@ -1,3 +1,12 @@
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-include-cache
+
+
+
+
+
 # remote_theme: samarsault/texture
 
 
@@ -18,77 +27,77 @@
 
 
 
-remote_theme: "jeromelachaud/freelancer-theme"
-# Site settings
-title: Marika Girard, Ergothérapeute
-email: marika.girard.erg@gmail.com
-# url: https://github.com/jeromelachaud/freelancer-theme
-description: "Description en construction"
-keywords: "mots-clés, en construction"
-skills: "Ergothérapie - Santé mentale"
-# meta_author: LastName FirstName
+# remote_theme: "jeromelachaud/freelancer-theme"
+# # Site settings
+# title: Marika Girard, Ergothérapeute
+# email: marika.girard.erg@gmail.com
+# # url: https://github.com/jeromelachaud/freelancer-theme
+# description: "Description en construction"
+# keywords: "mots-clés, en construction"
+# skills: "Ergothérapie - Santé mentale"
+# # meta_author: LastName FirstName
 
-# Google webmaster tools
-# google_verify:
+# # Google webmaster tools
+# # google_verify:
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify:
+# # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# # bing_verify:
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-# contact: static
+# # Contact form:
+# # - static : pass through formspree.io to validate email sending
+# # - disqus : replace contact form by disqus thread
+# # - comment the line below if you want to stick with the default PHP contact form
+# # contact: static
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-# disqus_shortname: myshortname
+# # If you use disqus you need disqus shortname
+# # https://help.disqus.com/customer/portal/articles/466208
+# # disqus_shortname: myshortname
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: c0e4c8 #80B3FF
-  # primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+# # Color settings (hex-codes without the leading hash-tag)
+# color:
+#   primary: c0e4c8 #80B3FF
+#   # primary-rgb: "24,288,156" #"128,179,255"
+#   secondary: 2c3e50 #FD6E8A
+#   secondary-dark: 233140 #A2122F
 
-# Footer settings
-footer:
-  copyright: Marika Girard
-  location: Terrebonne, Mascouche et environs
-  # social: Around the Web
-  # credits: Credits
+# # Footer settings
+# footer:
+#   copyright: Marika Girard
+#   location: Terrebonne, Mascouche et environs
+#   # social: Around the Web
+#   # credits: Credits
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-# social:
-#   - title: twitter
-#     url: http://twitter.com/jekyllrb
-#   - title: facebook
-#     url:
-#   - title: stack-overflow
-#     url: http://stackoverflow.com/questions/tagged/jekyll
-#   - title: bitbucket
-#     url: http://bitbucket.org/jekyll
-#   - title: github
-#     url: http://github.com/jekyll
+# # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# # social:
+# #   - title: twitter
+# #     url: http://twitter.com/jekyllrb
+# #   - title: facebook
+# #     url:
+# #   - title: stack-overflow
+# #     url: http://stackoverflow.com/questions/tagged/jekyll
+# #   - title: bitbucket
+# #     url: http://bitbucket.org/jekyll
+# #   - title: github
+# #     url: http://github.com/jekyll
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 2787 Boul. Claude-Léveillée
-  - line: Terrebonne, J6X 4S8
+# # Postal address (add as many lines as necessary)
+# address:
+#   - line: 2787 Boul. Claude-Léveillée
+#   - line: Terrebonne, J6X 4S8
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# # Credits content
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# # Build settings
+# markdown: kramdown
+# permalink: pretty
 
-#for posts
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: ""
+# #for posts
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       permalink: ""
 
 
