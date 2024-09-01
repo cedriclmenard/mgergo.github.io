@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /contact-tarifs/
 title: "Contact"
 excerpt: "Information de contact"
 ---
