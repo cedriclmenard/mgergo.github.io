@@ -1,7 +1,7 @@
 ---
 permalink: /contact-tarifs/
-title: "Contact"
-excerpt: "Information de contact"
+title: "Contact et tarifs"
+excerpt: "Information de contact et tarifiaire"
 ---
 
 <table border="0">
