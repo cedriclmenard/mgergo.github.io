@@ -11,14 +11,14 @@ excerpt: "Information de contact"
  </tr>
  <tr>
     <td>
-      Marika Girard  
-      No. de pratique : 19-226  
-      Téléphone : (514) 816-1547  
+      Marika Girard  <br />
+      No. de pratique : 19-226  <br />
+      Téléphone : (514) 816-1547  <br />
       Courriel : marika.girard.erg@gmail.com
     </td>
     <td>
-      Évaluation : 150$  
-      Rapport d'évaluation : 100$  
+      Évaluation : 150$  <br />
+      Rapport d'évaluation : 100$  <br />
       Traitements : 110$
     </td>
  </tr>
