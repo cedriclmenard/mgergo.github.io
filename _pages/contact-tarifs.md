@@ -5,9 +5,9 @@ excerpt: "Information de contact et tarifiaire"
 ---
 
 
-<p float="left" align="middle">
-  <img src="/assets/images/bureau_petit.jpg" width="50%" />
-  <img src="/assets/images/bureau_grand.jpg" width="50%" />
+<p float="left">
+  <img src="/assets/images/bureau_petit.jpg" width="30%" />
+  <img src="/assets/images/bureau_grand.jpg" width="30%" />
 </p>
 
 
