@@ -6,8 +6,8 @@ excerpt: "Information de contact et tarifiaire"
 
 
 <p float="left">
-  <img src="/assets/images/bureau_petit.jpg" height="200px" />
-  <img src="/assets/images/bureau_grand.jpg" height="200px" />
+  <img src="/assets/images/bureau_petit.jpg" width="38%" />
+  <img src="/assets/images/bureau_grand.jpg" width="60%" />
 </p>
 
 

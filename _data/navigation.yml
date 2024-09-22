@@ -3,11 +3,11 @@
 main:
   - title: "Contact et Tarifs"
     url: /contact-tarifs/
-  # - title: "About"
-  #   url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Terms &amp; Privacy Policy"
-  #   url: /terms/
+  - title: "Services"
+    url: /services/
+  - title: "Ressources"
+    url: /ressources/
+  - title: "Blogue"
+    url: /blogue/
+  - title: "Apprendre à me connaître"
+    url: /apprendre-connaitre/
