@@ -7,7 +7,7 @@ main:
     url: /services/
   - title: "Ressources"
     url: /ressources/
+  - title: "Me connaître"
+    url: /apprendre-connaitre/
   - title: "Blogue"
     url: /blogue/
-  - title: "Apprendre à me connaître"
-    url: /apprendre-connaitre/
