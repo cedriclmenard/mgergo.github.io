@@ -3,9 +3,9 @@ permalink: /apprendre-connaitre/
 title: "Apprendre à me connaître"
 ---
 
-Toute jeune, je me passionne pour la lecture, sports et d’aider les autres. Tout en pratiquant le sport de trampoline, je commence à entraîner les enfants. Rapidement je remarque je veux avoir une carrière qui implique de travailler avec un ensemble de personne. 
+Toute jeune, je me passionne pour la lecture, sports et d’aider les autres. Tout en pratiquant le sport de trampoline, je commence à entraîner les enfants. Rapidement je remarque que j'aimerais avoir une carrière qui implique de travailler avec un ensemble de personnes. 
 
-Mon désir d’aider ainsi que ma curiosité académique m’amène à débuter mes études en ergothérapie en 2015, avec comme objectifs de travailler avec les enfants. Mon curriculum ainsi que mes stages académiques m'amènent à découvrir un type de pratique qui m’intéresse encore plus : La santé mentale chez les Adulte. 
+Mon désir d’aider ainsi que ma curiosité académique m’amène à débuter mes études en ergothérapie en 2015, avec comme objectif de travailler avec les enfants. Mon curriculum ainsi que mes stages académiques m'amènent à découvrir un type de pratique qui m’intéresse encore plus : la santé mentale chez les adultes. 
 
 De ma graduation à l’automne 2024, je travaille en clinique privée avec d'autres professionnels, divisant mon temps entre une clientèle en santé mentale et en santé physique, tout en prenant plusieurs mois pour voyager à travers des États-Unis. Pendant ces 5 années, je pousse aussi mes connaissances en additionnant les formations continues afin de mieux accompagner mes clients dans leur rétablissement. 
 
