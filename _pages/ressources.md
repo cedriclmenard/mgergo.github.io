@@ -8,7 +8,7 @@ Voici quelques ressources intéressantes en ergothérapie en santé mentale :
 
 # Site webs
 
--  [Ordre des Ergothérapeutes du Québec (OEQ)](https://www.oeq.org/)
+- [Ordre des Ergothérapeutes du Québec (OEQ)](https://www.oeq.org/)
 - [Boîte à outils en santé mentale de l'UdeM](https://medfam.umontreal.ca/ressources/boite-a-outils-sante-mentale/)
 - [Ressources d'aide et de soutien en santé mentale du Québec](https://www.quebec.ca/sante/sante-mentale/trouver-aide-et-soutien-en-sante-mentale/trouver-ressource-aide-et-soutien-en-sante-mentale/ressources-aide-et-soutien-sante-mentale-par-besoin)
 
