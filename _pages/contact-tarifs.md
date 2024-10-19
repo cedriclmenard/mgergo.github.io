@@ -26,7 +26,7 @@ excerpt: "Information de contact et tarifiaire"
       Terrebonne, Québec, J6X 4S8
     </td>
     <td>
-      Évaluation : 20$  <br />
+      Évaluation : 200$  <br />
       Rapport d'évaluation : 50$  <br />
       Traitements : 100$
     </td>
