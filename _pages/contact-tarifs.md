@@ -22,7 +22,7 @@ excerpt: "Information de contact et tarifiaire"
       No. de pratique : 19-226  <br />
       Téléphone : (514) 816-1547  <br />
       Courriel : marika.girard.erg@gmail.com <br />
-      Adresse : 2887 Avenue Claude-Léveillé, Bureau 6 <br />
+      Adresse : 2787 Avenue Claude-Léveillé, Bureau 6 <br />
       Terrebonne, Québec, J6X 4S8
     </td>
     <td>
