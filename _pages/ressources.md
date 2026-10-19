@@ -13,7 +13,10 @@ Voici quelques ressources intéressantes en ergothérapie en santé mentale :
 - [Ressources d'aide et de soutien en santé mentale du Québec](https://www.quebec.ca/sante/sante-mentale/trouver-aide-et-soutien-en-sante-mentale/trouver-ressource-aide-et-soutien-en-sante-mentale/ressources-aide-et-soutien-sante-mentale-par-besoin)
 
 # Lectures
-*À venir*
+- Pour l'amour du stress *Sonia Lupien*
+- Y a comme un vide en moi: Mieux se comprendre pour surmonter les crises *Julie Desrosiers*
+- La spirale positive *Alex Korb*
+- Un rien peut tout changer *James Clear*
 
 # Pages Facebook et Instagram
 - [Ergo en quelques mots](https://www.facebook.com/p/Ergo-en-quelques-mots-100084806030666/)
